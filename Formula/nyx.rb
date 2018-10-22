@@ -1,8 +1,8 @@
 class Nyx < Formula
   desc "Process monitoring and supervision tool"
   homepage "https://github.com/kongo2002/nyx/"
-  url "https://github.com/kongo2002/nyx/archive/v1.9.3.tar.gz"
-  sha256 "7960058e1cd07eb397960a9766c425ccc0810e387d454df7fe21077be848a98c"
+  url "https://github.com/kongo2002/nyx/archive/v1.9.4.tar.gz"
+  sha256 "ac3843011b3fb5f84d0abbefa7385c53bd6e665fbec8e9bfae24c2dfc3bfa125"
 
   depends_on "libyaml"
 
